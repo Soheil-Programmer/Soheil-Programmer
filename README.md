@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
 <h2> Contact </h2>
-  <a href="ghasemzadeh1387soheil@gmail.com" style="display:inline-block;">
+  <a href="mailto:ghasemzadeh1387soheil@gmail.com" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50" />
   </a>
 </div>
