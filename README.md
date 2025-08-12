@@ -17,7 +17,3 @@
   <a href="mailto:ghasemzadeh1387soheil@gmail.com" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50" />
   </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50" style="cursor: default;" />
-
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50" style="cursor: default;" />
-</div>
