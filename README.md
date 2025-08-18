@@ -17,3 +17,8 @@
   <a href="mailto:ghasemzadeh1387soheil@gmail.com" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50" />
   </a>
+
+
+<a href="https://t.me/Ai_World_Pro" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" height="50" />
+</a>
